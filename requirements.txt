@@ -1,0 +1,3 @@
+streamlit
+Pillow
+# aggiungi qui altre librerie se le usi (es. numpy, rembg, opencv-python)
