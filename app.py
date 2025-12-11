@@ -30,7 +30,7 @@ st.markdown("""
 # ⚠️ IMPORTANTE: Sostituisci questo URL con il link della TUA app.
 # Assicurati che finisca con /?embedded=true per evitare l'errore dei redirect.
 # Nota lo slash "/" finale prima di "?embedded=true"
-url_target = "https://share.streamlit.io/tuo-nome/tua-repo/main/app.py/?embedded=true"
+url_target = "https://batch-imgflow-web-c3ypebjb5spkccqjhoszmo.streamlit.app/?embedded=true"
 # 4. Renderizza l'iframe in HTML puro
 html_code = f"""
 <iframe 
